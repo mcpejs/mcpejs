@@ -1,4 +1,5 @@
 ### Hello! I'm mcpejs 👋
+i'm usually use javascript, and make some flutter app now!
 
 <!--
 **mcpejs/mcpejs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
