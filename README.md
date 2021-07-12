@@ -1,5 +1,6 @@
 ### Hello! I'm mcpejs 👋
-i'm usually use javascript, and make some flutter app now!
+i'm usually use javascript, and make some flutter app
+전 보통 자바스크립트를 사용하고, 플러터 앱들을 만들고있습니다
 
 <!--
 **mcpejs/mcpejs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
