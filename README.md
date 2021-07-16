@@ -1,5 +1,5 @@
 ### Hello! I'm mcpejs 👋
-I usually use javascript, and make some flutter app
+I usually use javascript and also make some flutter app now
 
 전 보통 자바스크립트를 사용하고, 플러터 앱들을 만들고있습니다
 
